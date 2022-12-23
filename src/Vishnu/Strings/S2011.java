@@ -1,4 +1,4 @@
-package Vishnu;
+package Vishnu.Strings;
 
 public class S2011 {
 

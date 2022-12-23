@@ -1,4 +1,4 @@
-package Vishnu;
+package Vishnu.Strings;
 
 public class S771 {
     public int numJewelsInStones(String jewels, String stones) {
